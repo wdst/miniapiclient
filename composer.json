@@ -10,5 +10,10 @@
             "name": "wdst",
             "email": "wds@mail.ru"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "wdst\\miniapiclient\\": ""
+        }
+    }
 }
