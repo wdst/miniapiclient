@@ -1,6 +1,7 @@
 {
     "name": "wdst/miniapiclient",
     "version": "1.0.0",
+    "type": "yii2-extension",
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "^2.0"
@@ -12,7 +13,7 @@
         }
     ],
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "wdst\\miniapiclient\\": ""
         }
     }
