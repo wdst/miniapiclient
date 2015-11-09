@@ -1,5 +1,5 @@
 {
-    "name": "miniapiclient",
+    "name": "wds/miniapiclient",
     "description": "miniapiclient",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
