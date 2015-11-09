@@ -1,5 +1,5 @@
 <?php
-namespace wdst\miniclientapi;
+namespace wdst\miniapiclient;
 
 /**
  * Exception

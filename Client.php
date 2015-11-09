@@ -4,9 +4,9 @@
  *
  * @author wds
  */
-namespace wdst\miniclientapi;
+namespace wdst\miniapiclient;
 
-use wdst\miniclientapi\Exception;
+use wdst\miniapiclient\Exception;
 
 class Client {
 
