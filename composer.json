@@ -1,13 +1,12 @@
 {
-    "name": "miniapiclient",
+    "name": "wdst/miniapiclient",
     "require": {
         "php": "5.4",
         "yiisoft/yii2": "^2.0"
     },
-    "license": "MIT",
     "authors": [
         {
-            "name": "wds",
+            "name": "wdst",
             "email": "wds@mail.ru"
         }
     ]
