@@ -4,7 +4,7 @@
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "keywords": ["yii", "yii2", "json", "jsonrpc"],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "wds",
