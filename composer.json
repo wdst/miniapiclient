@@ -20,5 +20,5 @@
             "miniapiclient\\": ""
         }
     },
-    "target-dir": "wds"
+    "target-dir": "miniapiclient"
 }
