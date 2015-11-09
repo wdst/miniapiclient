@@ -2,9 +2,8 @@
     "name": "wds/miniapiclient",
     "description": "miniapiclient",
     "type": "yii2-extension",
-    "license": "BSD-3-Clause",
+    "license": "BSD",
     "keywords": ["yii", "yii2", "json", "jsonrpc"],
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "wds",
@@ -19,6 +18,5 @@
         "psr-0": {
             "miniapiclient\\": ""
         }
-    },
-    "target-dir": "miniapiclient"
+    }
 }
