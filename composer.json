@@ -1,5 +1,5 @@
 {
-    "name": "wds/miniaoiclient",
+    "name": "wds/miniapiclient",
     "require": {
         "php": "5.4",
         "yiisoft/yii2": "^2.0"
