@@ -1,0 +1,24 @@
+{
+    "name": "miniapiclient",
+    "description": "miniapiclient",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "keywords": ["yii", "yii2", "json", "jsonrpc"],
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "wds",
+            "email": "wds@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "wds\\": ""
+        }
+    },
+    "target-dir": "wds"
+}
